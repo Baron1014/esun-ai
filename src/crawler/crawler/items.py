@@ -8,5 +8,6 @@ import scrapy
 
 class CrawlerItem(scrapy.Item):
     # define the fields for your item here like:
-    content = scrapy.Field()
+    news = scrapy.Field()
+    res = scrapy.Field()
     pass
