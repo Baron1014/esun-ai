@@ -121,3 +121,11 @@ src/visualization/.gitkeep
 test_environment.py
 
 tox.ini
+
+notebooks/test.csv
+
+src/crawler/output.json
+
+src/crawler/test.json
+
+*.json
